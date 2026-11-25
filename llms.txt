@@ -1,0 +1,27 @@
+# Jessica Leong, Registered Estate Agent (E3208)
+
+> Personal website of Jessica Leong (E3208), Registered Estate Agent and Senior Real Estate Negotiator with PropNex Realty Sdn Bhd (E (1) 1800/1), KLCC branch, Kuala Lumpur, Malaysia.
+
+## Identity & Contact
+- Name: Jessica Leong
+- Registration: Registered Estate Agent E3208 (LPEPH / BOVEAP)
+- Agency: PropNex Realty Sdn Bhd (E (1) 1800/1)
+- Office: A-G-03, Marc Residence, No. 3, Jalan Pinang, 50400 Kuala Lumpur
+- Mobile / WhatsApp: +6010-464 6088
+- Office Tel: +603-2161 8608
+- Email: leongjes@gmail.com
+- Hours: 9am – 5pm (MYT)
+- Project Library: https://klselangorestates.com/
+
+## Coverage & Services
+- New-launch condominiums & serviced residences: KLCC, Cochrane & Maluri, Bukit Bintang, Mont Kiara, Petaling Jaya, and Selangor (/new-launches/)
+- Industrial property: factories, warehouses, and industrial parks in Selangor (/industrial/)
+- Bank lelong (auction) properties in KL and Selangor (/bank-lelong/)
+- Property insights & buyer guides (/insights/)
+- Bilingual support: English (/) and Chinese (/zh/)
+
+## Interactive Sample Analytics (Preview)
+- Overview (#overview): Interactive Kuala Lumpur Market Explorer with filters (area, property type, tenure), area stats callout, location details, property spotlight, and client network gauge.
+- Featured Kuala Lumpur Residences (#listings): Sample RM listings across KLCC, Bukit Bintang, and Mont Kiara.
+- Kuala Lumpur Neighbourhood Pulse (#analytics): Sample median prices, PSF, and gross yields across KLCC, Bukit Bintang, and Mont Kiara.
+- Notice: Demo site listings and analytics figures are sample data.
